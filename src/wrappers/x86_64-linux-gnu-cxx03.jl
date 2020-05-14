@@ -7,6 +7,7 @@ using FastJet_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "LD_LIBRARY_PATH"
+LIBPATH_default = ""
 
 # Relative path to `libfastjetwrap`
 const libfastjetwrap_splitpath = ["lib", "libfastjetwrap.so"]

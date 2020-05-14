@@ -7,6 +7,7 @@ using FastJet_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
+LIBPATH_default = "~/lib:/usr/local/lib:/lib:/usr/lib"
 
 # Relative path to `libfastjetwrap`
 const libfastjetwrap_splitpath = ["lib", "libfastjetwrap.dylib"]

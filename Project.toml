@@ -1,6 +1,6 @@
 name = "FastJet_Julia_Wrapper_jll"
 uuid = "33ff6b16-4e4c-5b96-9396-f34816859298"
-version = "0.6.0+0"
+version = "0.7.0+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
