@@ -1,180 +1,180 @@
 [[FastJet_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0530c73fcffbf90e41abbe7e998349b6987977e8"
+git-tree-sha1 = "af735a4d1c877ef5e5bde5145a231221b8c5a1a2"
 libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "e9b4e5e602c83877063cb8c05503f6e40d444a3eb81cd78b42fa64c2f3eb028d"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "9301fb174ec354f7b1937e6c1889c4c73399e9dde64362de6773ec12d179b636"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.aarch64-linux-gnu-cxx03.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "67573561a63c14371d57749289e733cb7622f201"
+git-tree-sha1 = "99d73716ea8d33b9a35552d5689aaf78c6fa2df3"
 libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "f961f6ecaa02a105b7cfd352ef86ba757aa7f339d6dbad54ac23a73f382d216c"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e23018a23c6e7790acae579ada70518cd8a59a7bc4657948d90cd4208c61412d"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.aarch64-linux-gnu-cxx11.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "abe8933c81cc0427ce80c0873d1c3941046f6efe"
+git-tree-sha1 = "8250dbfe1b92d56fd155435884a003eed420a188"
 libc = "musl"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "9e9fc0fa93ad2e34e3f274318f133997e021482fe8a51ab51b7192fcb4a04b0a"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "57c39e79d6d7e64fda035f8a92ad3e3df2669d34d86e311383b44cf857e0f778"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.aarch64-linux-musl-cxx03.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a25c0a2811c8d250f272f56cd1746da1b131f1f"
+git-tree-sha1 = "7d9d859c39cd4828d08174048c93798842e86192"
 libc = "musl"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "a3bf9233b4fb44d95611e96949ae1952d346bd499bd9efea0b311cee90d0891a"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.aarch64-linux-musl-cxx11.tar.gz"
-[[FastJet_Julia_Wrapper]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2895903ec0585a7e14412bae4b7067c1cec8c711"
-libc = "glibc"
-os = "linux"
-
-    [[FastJet_Julia_Wrapper.download]]
-    sha256 = "9b6ad15fde949cab1950dc632fbe9a67000f2389a3a1b06859834dc1a86ebbf2"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[FastJet_Julia_Wrapper]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "18d399185231c2fd54ae0c3251c232f5f956be52"
-libc = "glibc"
-os = "linux"
-
-    [[FastJet_Julia_Wrapper.download]]
-    sha256 = "70fe22c14fce76c55f0449985e54e0025b410ec4d754ad6cfcdcde171ce6b037"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "74d227010865e9187f9a5c40811664651648c8ab965f2079eb702762b41a7b4e"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.aarch64-linux-musl-cxx11.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9f31016334b1c13f6e55826f5f39b52d10dc603a"
-libc = "musl"
+git-tree-sha1 = "d24d18f9413ed11aa2f4e390c3e99a53b00c4b9d"
+libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "49053130cbb738c05f91ecdbccfc7ff4b94bc61baa675257cc759bc9aaeeeaac"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "d3ed70c9a0fb90432c6a7ab21bd915d339331f83b491f5158d41578fe9fad2e7"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9ad0ef42e8fa45fa13962e46531671440e4eaa85"
+git-tree-sha1 = "3d657622da1db195898285551e5ec8c4457557a8"
+libc = "glibc"
+os = "linux"
+
+    [[FastJet_Julia_Wrapper.download]]
+    sha256 = "e3fe3b6fc3d2a009289a4ed8997bd351afa43ed694d16cd958f46cda720d96f2"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[FastJet_Julia_Wrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cf61e4ad30a5d955b9d4a0dda659ff707640593a"
 libc = "musl"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "a8b6f3101cdd7d16a9c840b8a40ea81b74ebf3ed8ab491d9f92716f9c92931ab"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "ce4cf1baa92bc6a068fb4e3caf92ac51722e568a619f27254e1fee5cefb6a297"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[FastJet_Julia_Wrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a36d1959b401519077c3be1166ef7046a2ba135"
+libc = "musl"
+os = "linux"
+
+    [[FastJet_Julia_Wrapper.download]]
+    sha256 = "8dd4f92c4c1125bf649f387ef1d61b1d9b9951dfa0dab4e9b45c4fffedf358b1"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d34912bf14a59cde1f974b27a4749ba4b10f6b76"
+git-tree-sha1 = "551e5c4652e2059d5ecd6e957a617aa96baa2bcd"
 libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "c8171996ae487e1352af039df38f44f8015a3f099d3ac0c3057bab1113328e62"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "82a0def101e4adb2aeef95a98368f3e064352f84d2fb3554054c69637410ba33"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.i686-linux-gnu-cxx03.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "54d5c4f646e1e20dab385f4fd8b32057e7696046"
+git-tree-sha1 = "b6bdca207fd3bad32b696a23f8208a55592df2b8"
 libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "ab9d98b3c306c4b6bfa476062f6613bdc9b1ddf03ea3c995b973482b003b5c51"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "a28ec9cb6afa95a8e0f4880a1cb4d1a88e8de5de5947212d6c4e499347af3122"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.i686-linux-gnu-cxx11.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a401b1acf465638c5bf64771c171983379c81c8f"
+git-tree-sha1 = "b341433f6f48607afc7cda5dca65ac25d0187370"
 libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "9ec9410abb37775dafb09495f0cc2d884bdfeb3138996b828810fe3f2da7214b"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "cb28f135b28d3c82feb2450d43461d5ffe2b6fb8e508d9c4fa30444c4d56664d"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e588fbb2510c1e67f1ad435692930be7ea2c49d"
+git-tree-sha1 = "66da2227d0db21e5a9fb029bf7252334a4d78f02"
 libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "b20282427b3553ea406a6679eabb71028d8247ddb5df539740e0062fdafda5c9"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "48841913b690bce5b11bcc37a2eef694a4ce69e93b5f187f69fd502ba451275b"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "e2eacad5f2a1a4c9b7ab3e314cb32bcd676b81b4"
+git-tree-sha1 = "7b8bda816f31988bd935745deb1a5913718d991e"
 os = "macos"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "2ba66cc20251f4baf90b4e2374a420fa02b50800f2479da4a407eef2fa020117"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.x86_64-apple-darwin.tar.gz"
+    sha256 = "452a6db46779e3b3cce0255f01956e5bef9169a1a958f02c2713372634c21f5e"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.x86_64-apple-darwin.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2011514d5c50e3915a3803333dd799a3bcc0d7fb"
+git-tree-sha1 = "c0421770bdd49d0ed1d61fbd05f8f57a822c4749"
 libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "cc462f8ac6334f4681c0ae11cfbcbd1d32ccd53738483c12cd6fb4df3a5678d2"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "68f0a139e458d6971c8c51eda6b7f9123a88c46e0a543936229701f2d6df8053"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.x86_64-linux-gnu-cxx03.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13cf49f08bb6b5ab3e6c7f5367fef303c0a9d0d4"
+git-tree-sha1 = "1346ceb8cd1b1f1c685c7dbe5e25fb09ee75ae24"
 libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "14b5f51d521f0ed5d2fcbd306ce02c117615263b72777071a37f8355219dad01"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "fbbed492725ab034fcddbde3dfaa3ba866dfbd17765bf4811533b5e86cc82757"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.x86_64-linux-gnu-cxx11.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "53a2eed2cb7e83025ad23bf369de422a486252b1"
+git-tree-sha1 = "f891419c8ef6618563092ea0c108500dff0cdf26"
 libc = "musl"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "be5e0599dae7cad705a139b4c1b944f02f43c5ae5df0ee44e5a26e2e0dcb94ce"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "26d82562432226cb3af6f1483ffca3aceaee06b20436dc952cdcf1f78e29b7cf"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.x86_64-linux-musl-cxx03.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "46cadb8d221565c8cf6598fdd90252d207517e35"
+git-tree-sha1 = "e4d8201c8131c0ad8ab3c09eddb43086970c325d"
 libc = "musl"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "4f9d8a80a9f123086cea479163c674f5f87e26029ea4b7e977af133bd1ceb57e"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "88752d03f0a4625774534ca02c56f7a667724d81f6d82164e6260802b600cebb"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.x86_64-linux-musl-cxx11.tar.gz"
 [[FastJet_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "b2e20a8e32772ba69c86461d9e2762c8792b4236"
+git-tree-sha1 = "2d3ab55b1045e75b950a93c4e1e5aab984504f4e"
 os = "freebsd"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "9fb314963f4845d33275af927b1f124f688f1fce0229a1eb9b7f269d7c164c29"
-    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.5+2/FastJet_Julia_Wrapper.v0.8.5.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "3f31157ac5cd545ed0bc679f3d7a0da753ea730c0efd52f39f5de77349b9fb86"
+    url = "https://github.com/JuliaBinaryWrappers/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.6+0/FastJet_Julia_Wrapper.v0.8.6.x86_64-unknown-freebsd.tar.gz"
